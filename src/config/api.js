@@ -1,4 +1,5 @@
-export const BASE_URL = "http://localhost:8000"; // ← change to your server
+export const BASE_URL = "https://uber-clone-backend-t3gh.onrender.com";
+
 
 const getAuthHeaders = () => ({
   "Content-Type": "application/json",
